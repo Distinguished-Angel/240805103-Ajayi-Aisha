@@ -1,4 +1,4 @@
-# My Calculator – Emerald Mist
+# My Calculator – 
 
 A simple and stylish calculator built using:
 - HTML
